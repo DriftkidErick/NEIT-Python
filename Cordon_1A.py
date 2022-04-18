@@ -1,6 +1,6 @@
 #W2D2 lAB 1A
 
-#Erick Cordon
+#DriftKidErick
 #Lab 1A
 
 #program PROMT/ PURPOSE: Write a solution file that displays the following output. Use variables to hold the month, day, and year values. (You may change the date to the due date of this lab) 
