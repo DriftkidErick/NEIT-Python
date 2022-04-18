@@ -1,6 +1,6 @@
 #W2D2
 
-#Erick Cordon
+#DriftKidErick
 # Lab 1B
 
 # Program Prompt/ Purpose: You want to develop a program that gathers the user’s hourly pay (use $14.50), hours worked (32/week), and tax rate for a two-week period. Once you have this information, you want to display the user’s Gross Pay, Uncle Sam’s Share (the amount to be removed for taxes), and the User’s Net Pay. All calcula5ons should be limited to run once, rather than numerous times. Include in your flowchart the use of variables and print statements. Use 20% for the tax rate. 
